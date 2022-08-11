@@ -1,0 +1,9 @@
+
+.project
+.classpath
+.settings/org.eclipse.m2e.core.prefs
+.settings/org.eclipse.jdt.core.prefs
+target/classes/META-INF/MANIFEST.MF
+*.class
+target/classes/META-INF/maven/NovidadesJava7/NovidadesJava7/pom.xml
+target/classes/META-INF/maven/NovidadesJava7/NovidadesJava7/pom.properties
